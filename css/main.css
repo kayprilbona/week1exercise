@@ -1,0 +1,17 @@
+.nav {
+	background-color: red;
+	margin: 15px;
+	padding: 20px;
+}
+a {
+	color: white;
+}
+
+.box {
+	float: left;
+	width: 50%;
+}
+img {
+	width: 100px;
+	height: 100px;
+}
